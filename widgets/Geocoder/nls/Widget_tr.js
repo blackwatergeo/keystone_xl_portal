@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Geocoder/nls/strings":{_widgetLabel:"Co\u011frafi Kodlay\u0131c\u0131",locationTitle:"Konum",notFound:"'${LOCATION}' konumu bulunamad\u0131.",currentLocation:"Ge\u00e7erli Konum",notWhatYouWanted:"\u0130stedi\u011finiz bu de\u011fil mi?",selectAnother:"Ba\u015fka bir konum se\u00e7",_localized:{}}});

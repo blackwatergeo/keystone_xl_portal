@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Geocoder/nls/strings":{_widgetLabel:"Geokoder",locationTitle:"Lokalizacja",notFound:"Nie mo\u017cna odnale\u017a\u0107 lokalizacji '${LOCATION}'.",currentLocation:"Bie\u017c\u0105ca lokalizacja",notWhatYouWanted:"Oczekiwano innej lokalizacji?",selectAnother:"Wybierz inn\u0105 lokalizacj\u0119",_localized:{}}});

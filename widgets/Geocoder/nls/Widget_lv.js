@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Geocoder/nls/strings":{_widgetLabel:"\u0122eokod\u0113t\u0101js",locationTitle:"Izvietojums",notFound:"Izvietojumu '${LOCATION}' nevar\u0113ja atrast.",currentLocation:"Pa\u0161reiz\u0113jais izvietojums",notWhatYouWanted:"Nav tas, ko v\u0113l\u0113j\u0101ties?",selectAnother:"Izv\u0113l\u0113ties citu izvietojumu",_localized:{}}});

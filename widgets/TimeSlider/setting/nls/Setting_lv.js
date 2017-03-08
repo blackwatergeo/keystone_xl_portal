@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/TimeSlider/setting/nls/strings":{showLayerLabels:"Par\u0101d\u012bt sl\u0101\u0146u nosaukumus logr\u012bk\u0101 laiku att\u0113lojo\u0161iem sl\u0101\u0146iem.",_localized:{}}});

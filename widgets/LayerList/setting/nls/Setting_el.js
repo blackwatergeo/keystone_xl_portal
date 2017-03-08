@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/LayerList/setting/nls/strings":{showLegend:"\u0395\u03bc\u03c6\u03ac\u03bd\u03b9\u03c3\u03b7 \u03c5\u03c0\u03bf\u03bc\u03bd\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2",_localized:{}}});

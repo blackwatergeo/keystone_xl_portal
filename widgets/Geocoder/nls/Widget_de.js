@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Geocoder/nls/strings":{_widgetLabel:"Geocoder",locationTitle:"Position",notFound:"Die Position '${LOCATION}' konnte nicht gefunden werden.",currentLocation:"Aktuelle Position",notWhatYouWanted:"Nicht das gew\u00fcnschte Ergebnis?",selectAnother:"Andere Position ausw\u00e4hlen",_localized:{}}});

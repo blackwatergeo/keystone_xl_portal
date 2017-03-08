@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Swipe/setting/nls/strings":{styleText:"S\u00e9lectionnez un style pour l'outil de balayage.",vertical:"Barre verticale",horizontal:"Barre horizontale",scope:"Longue-vue",layerText:"S\u00e9lectionnez la couche que vous voulez balayer par d\u00e9faut.",spyglassText:"S\u00e9lectionnez la couche qui doit appara\u00eetre dans la longue-vue par d\u00e9faut.",layerHint:"Remarque\u00a0: si la couche est masqu\u00e9e par des couches sup\u00e9rieures, le balayage sera sans effet.",_localized:{}}});

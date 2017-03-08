@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Geocoder/nls/strings":{_widgetLabel:"Geokodare",locationTitle:"Plats",notFound:"Det gick inte att hitta platsen ${LOCATION}.",currentLocation:"Aktuell plats",notWhatYouWanted:"\u00c4r det inte vad du vill ha?",selectAnother:"V\u00e4lj en annan plats",_localized:{}}});

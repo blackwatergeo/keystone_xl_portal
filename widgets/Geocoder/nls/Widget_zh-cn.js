@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Geocoder/nls/strings":{_widgetLabel:"\u5730\u7406\u7f16\u7801\u5668",locationTitle:"\u4f4d\u7f6e",notFound:"\u65e0\u6cd5\u627e\u5230\u4f4d\u7f6e\u201c${LOCATION}\u201d\u3002",currentLocation:"\u5f53\u524d\u4f4d\u7f6e",notWhatYouWanted:"\u4e0d\u662f\u60a8\u60f3\u8981\u7684\u4f4d\u7f6e?",selectAnother:"\u9009\u62e9\u5176\u4ed6\u4f4d\u7f6e",_localized:{}}});

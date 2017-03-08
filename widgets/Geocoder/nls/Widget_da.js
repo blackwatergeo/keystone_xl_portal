@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Geocoder/nls/strings":{_widgetLabel:"Geokoder",locationTitle:"Sted",notFound:"Sted '${LOCATION}' kunne ikke findes.",currentLocation:"Aktuel placering",notWhatYouWanted:"Var det ikke det, du ville?",selectAnother:"V\u00e6lg et andet sted",_localized:{}}});

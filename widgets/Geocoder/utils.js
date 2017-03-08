@@ -1,0 +1,2 @@
+//>>built
+define([],function(){return{hasAppSearchInfo:function(a){return a.itemInfo&&a.itemInfo.itemData&&a.itemInfo.itemData.applicationProperties&&a.itemInfo.itemData.applicationProperties.viewing&&a.itemInfo.itemData.applicationProperties.viewing.search},searchLayer:function(a){if(!this.hasAppSearchInfo(a))return!1;a=a.itemInfo.itemData.applicationProperties.viewing.search;return!a.enabled||0===a.layers.length?!1:!0},isConfigured:function(a){return a&&a.geocoder&&a.geocoder.geocoders&&0<a.geocoder.geocoders.length}}});

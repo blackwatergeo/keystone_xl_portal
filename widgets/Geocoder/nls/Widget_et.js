@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Geocoder/nls/strings":{_widgetLabel:"Geokodeerija",locationTitle:"Asukoht",notFound:"Asukohta ${LOCATION} ei leitud.",currentLocation:"Praegune asukoht",notWhatYouWanted:"Ei ole see, mida soovisite?",selectAnother:"Valige m\u00f5ni muu asukoht",_localized:{}}});

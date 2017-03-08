@@ -1,0 +1,2 @@
+//>>built
+define(["dojo/_base/declare","dojo/_base/html","jimu/BaseWidgetPanel","jimu/utils"],function(a,b,c,d){return a([c],{baseClass:"jimu-widget-panel jimu-simple-panel",startup:function(){this.inherited(arguments);b.setStyle(this.domNode,d.getPositionStyle(this.position))}})});

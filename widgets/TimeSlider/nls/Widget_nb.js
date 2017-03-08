@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/TimeSlider/nls/strings":{_widgetLabel:"Glidebryter for tid",enableTips:"Klikk for \u00e5 spille av glidebryteren for tid.",disableTips:"Ingen tidsaktiverte lag er synlige.",timeExtent:"${FROMTIME} til ${ENDTIME}",layers:"Lag: ",speedLabel:"Avspillingshastighet",_localized:{}}});

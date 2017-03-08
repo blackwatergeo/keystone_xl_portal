@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Geocoder/nls/strings":{_widgetLabel:"G\u00e9ocodeur",locationTitle:"Emplacement",notFound:"L'emplacement '${LOCATION}' est introuvable.",currentLocation:"Emplacement actuel",notWhatYouWanted:"Ce n'est pas ce que vous vouliez\u00a0?",selectAnother:"S\u00e9lectionnez un autre emplacement",_localized:{}}});

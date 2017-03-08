@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/TimeSlider/setting/nls/strings":{showLayerLabels:"Hi\u1ec3n th\u1ecb c\u00e1c t\u00ean l\u1edbp tr\u00ean ti\u1ec7n \u00edch cho nh\u1eefng l\u1edbp c\u00f3 th\u00f4ng tin th\u1eddi gian.",_localized:{}}});

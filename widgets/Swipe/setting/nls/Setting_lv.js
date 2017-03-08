@@ -1,0 +1,3 @@
+//>>built
+define({"widgets/Swipe/setting/nls/strings":{styleText:"Izv\u0113lieties p\u0101rvilk\u0161anas r\u012bka stilu.",vertical:"Vertik\u0101l\u0101 josla",horizontal:"Horizont\u0101l\u0101 josla",scope:"T\u0101lskatis",layerText:"Izv\u0113lieties sl\u0101ni, ko p\u0101rvilkt p\u0113c noklus\u0113juma.",spyglassText:"Izv\u0113lieties sl\u0101ni, kas tiks r\u0101d\u012bts t\u0101lskat\u012b p\u0113c noklus\u0113juma.",layerHint:"Piez\u012bme. Ja sl\u0101nis tiks pasl\u0113pts, izmantojot aug\u0161\u0113jos sl\u0101\u0146us, p\u0101rvilk\u0161anai neb\u016bs efekta.",
+_localized:{}}});

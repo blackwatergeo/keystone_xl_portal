@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Geocoder/nls/strings":{_widgetLabel:"Geokooderi",locationTitle:"Sijainti",notFound:"Sijaintia ${LOCATION} ei l\u00f6ydy.",currentLocation:"Nykyinen sijainti",notWhatYouWanted:"Etk\u00f6 l\u00f6yt\u00e4nyt etsim\u00e4\u00e4si?",selectAnother:"Valitse toinen sijainti",_localized:{}}});

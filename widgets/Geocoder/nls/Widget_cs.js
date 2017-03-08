@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Geocoder/nls/strings":{_widgetLabel:"Geokod\u00e9r",locationTitle:"Um\u00edst\u011bn\u00ed",notFound:"Um\u00edst\u011bn\u00ed '${LOCATION}' se nepoda\u0159ilo nal\u00e9zt.",currentLocation:"Aktu\u00e1ln\u00ed um\u00edst\u011bn\u00ed",notWhatYouWanted:"Nena\u0161li jste, co jste hledali?",selectAnother:"Vybrat jin\u00e9 um\u00edst\u011bn\u00ed",_localized:{}}});

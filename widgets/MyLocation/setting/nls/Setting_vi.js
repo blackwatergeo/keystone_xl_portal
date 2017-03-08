@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/MyLocation/setting/nls/strings":{timeout:"Th\u1eddi gian ch\u1edd",highlightLocation:"V\u1ecb tr\u00ed n\u1ed5i b\u1eadt",warning:"\u0110\u1ea7u v\u00e0o kh\u00f4ng \u0111\u00fang",_localized:{}}});

@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Swipe/nls/strings":{_widgetLabel:"Glisare",swipeText:" Selecta\u0163i stratul tematic pe care dori\u0163i s\u0103 \u00eel glisa\u0163i.",spyglassText:"Selecta\u0163i stratul tematic care va ap\u0103rea \u00een lup\u0103.",disableTips:"Face\u0163i clic pentru a dezactiva instrumentul de glisare",enableTips:"Face\u0163i clic pentru a activa instrumentul de glisare",_localized:{}}});

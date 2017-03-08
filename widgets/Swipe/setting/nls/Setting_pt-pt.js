@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/Swipe/setting/nls/strings":{styleText:"Escolha um estilo para a ferramenta de varrimento.",vertical:"Barra vertical",horizontal:"Barra horizontal",scope:"lupa",layerText:"Selecione a camada que pretende varrer por defeito.",spyglassText:"Selecione a camada que aparece dentro da lupa por defeito.",layerHint:"Nota: Se a camada estiver tapada por camadas superiores, o varrimento n\u00e3o ter\u00e1 qualquer efeito.",_localized:{}}});
