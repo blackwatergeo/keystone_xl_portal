@@ -6,8 +6,8 @@
     },
     "portalUrl": "https://gisbeta.exp.com/exp_portal",
     "appId": "",
-    "title": "Keystone_XL",
-    "subtitle": "with Web AppBuilder for ArcGIS",
+    "title": "",
+    "subtitle": "",
     "logo": "images/app-logo.png",
     "geometryService": "https://utility.arcgisonline.com/arcgis/rest/services/Geometry/GeometryServer",
     "links": [],
@@ -46,7 +46,21 @@
             "id": "widgets/Geocoder/Widget_3",
             "name": "Geocoder",
             "label": "Geocoder",
-            "positionRelativeTo": "map"
+            "positionRelativeTo": "map",
+             "config": {
+                "geocoder": {
+                    "autoComplete": true,
+                    "minCharacters": 3,
+                    "arcgisGeocoder": false,
+                    "geocoders": [{
+                        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer",
+                        "name": "Esri World Geocoder",
+                        "singleLineFieldName": "SingleLine",
+                        "placeholder": "Address Search"
+                    }]
+                }
+            }
+            
         }, {
             "uri": "widgets/Coordinate/Widget",
             "position": {
@@ -343,7 +357,7 @@
         "2D": true,
         "position": {
             "left": 0,
-            "top": 40,
+            "top": 60,
             "right": 0,
             "bottom": 0
         },
