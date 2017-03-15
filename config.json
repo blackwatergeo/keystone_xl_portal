@@ -413,7 +413,7 @@
                 "name": "eDraw",
                 "label": "eDraw",
                 "index": 10,
-                "icon": "images\\icon_Enhanced Draw.png",
+                "icon": "images\\icon_Draw.png",
                 "config": {
 
                     "distanceUnits": [
