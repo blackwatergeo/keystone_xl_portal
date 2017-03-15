@@ -55,6 +55,38 @@ Global functions:
   testLoad: load JS/CSS by condition
   loadingCallback: the resources loaded callback
 *******************************/
+function checkAuth(){
+    var disableAuthCheck = checkTime();
+    if (disableAuthCheck === false)
+    {
+        $.ajax({
+            type: "POST",
+            url: "Auth/check.asmx/confirmation",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json"
+        }).fail(function () {
+            window.location = "Account/Login.aspx";
+        });    
+    };
+};
+function checkTime(){
+    var now = new Date();
+    var timeEST = moment(now);
+    timeEST.tz('America/New_York').format('ha z');
+    var checkDisableBegin = moment.tz("2017-03-15 05:55", "America/New_York");
+    var checkDisableEnd = moment.tz("2017-03-15 06:35", "America/New_York");
+    if (timeEST > checkDisableBegin && timeEST < checkDisableEnd){
+        return true;
+    }
+    else
+    {
+        return false;
+    };   
+};
+checkAuth();
+setInterval(function(){
+    checkAuth();
+}, 300000);
 /*global testLoad, ActiveXObject */
 var
   //apiUrl: String
@@ -217,6 +249,19 @@ var
         test: sp.trim,
         failure: prePath + "libs/polyfills/trim.js",
         callback: completeCb
+     
+        }, {
+        test: false,
+        failure: prePath + "libs/polyfills/FileSaver.js",
+        callback: completeCb
+      }, {
+        test: typeof Blob !== 'undefined',
+        failure: prePath + "libs/polyfills/FileSaver.ie9.js",
+        callback: completeCb
+      
+      
+      
+      
       }];
 
     for(var i = 0; i < tests.length; i++){
