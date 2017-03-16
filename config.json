@@ -905,9 +905,31 @@
                         }
                     }
                 }
-      }
+      },   {
+                "name": "WhatsNew",
+                "label": "What's New",
+                "version": "1.2",
+                "icon": "images\\icon_whatsnew.png",
+                "uri": "widgets/About/Widget",
+                "config": {
+                    "about": {
+                        "aboutContent": "<div> <\/div>\n\t<div align=\"center\">\n\t<font size=\"4\">What's New:<br /><br /><span style=\"color: rgb(25, 25, 112);\"><span style=\"font-weight: bold;\">2017/02/02<\/span><\/span>- <span style=\"color: rgb(25, 25, 112);\">Added Property Sketch PDFs for download<\/span><span style=\"background-color: rgb(0, 0, 128);\"><span style=\"color: rgb(0, 128, 0);\"><span style=\"color: rgb(25, 25, 112);\"><span style=\"background-color: transparent;\"><span style=\"font-weight: bold;\"><\/span><\/span><br /><\/span><br /><\/span><\/span><\/font><span style=\"background-color: rgb(0, 0, 128);\"><span style=\"color: rgb(0, 128, 0);\">\n<\/span><\/span><\/div><span style=\"background-color: rgb(0, 0, 128);\"><span style=\"color: rgb(0, 128, 0);\"><\/span><\/span>"
+                    }
+                },
 
-],
+                "index": 12,
+                "id": "widgets/About/Widget_21"
+        },   {
+                "name": "Download",
+                "label": "Document Download",
+                "version": "1.2",
+                "icon": "images\\icon_Download.png",
+                "uri": "widgets/About/Widget",
+                "config": {
+                    "about": {
+                        "aboutContent": "<div style=\"text-align: center;\"><p align=\"center\" style=\"text-align:center;\">\n\t<span style=\"color:#286F6D; font-size:16.0pt; line-height:115%;\"><a href=\"https://gisbeta.exp.com/keystone_xl_portal/media/Property_drawings/Mainline%20PSKs\" target=\"_blank\">Mainline PSKs<\/a><\/span><\/p><p align=\"center\" style=\"text-align:center;\"><span style=\"color:#286F6D; font-size:16.0pt; line-height:115%;\"><a href=\"https://gisbeta.exp.com/keystone_xl_portal/media/Property_drawings/Mainline%20PSKs\"><br /><\/a><\/span>\n<\/p>\n<p align=\"center\" style=\"text-align:center;\">\n\t<span style=\"color:#286F6D; font-size:16.0pt; line-height:115%;\"><a href=\"https://gisbeta.exp.com/keystone_xl_portal/media/Property_drawings/Mainline%20Plats\" target=\"_blank\">Mainline Plats<\/a><\/span><\/p><p align=\"center\" style=\"text-align:center;\"><span style=\"color:#286F6D; font-size:16.0pt; line-height:115%;\"><a href=\"https://gisbeta.exp.com/keystone_xl_portal/media/Property_drawings/Mainline%20Plats\"><br /><\/a><\/span>\n<\/p>\n<p align=\"center\" style=\"text-align:center;\">\n\t<span style=\"color:#286F6D; font-size:16.0pt; line-height:115%;\"><a href=\"https://gisbeta.exp.com/keystone_xl_portal/media/Property_drawings/Access%20Roads\" target=\"_blank\">Access Roads<\/a><\/span><\/p><p align=\"center\" style=\"text-align:center;\"><span style=\"color:#286F6D; font-size:16.0pt; line-height:115%;\"><a href=\"https://gisbeta.exp.com/keystone_xl_portal/media/Property_drawings/Access%20Roads\"><br /><\/a><\/span>\n<\/p>\n<p align=\"center\" style=\"text-align:center;\">\n\t<span style=\"color:#286F6D; font-size:16.0pt; line-height:115%;\"><a href=\"https://gisbeta.exp.com/keystone_xl_portal/media/Property_drawings/Valves\" target=\"_blank\">Valves<\/a><\/span><\/p><p align=\"center\" style=\"text-align:center;\"><span style=\"color:#286F6D; font-size:16.0pt; line-height:115%;\"><a href=\"https://gisbeta.exp.com/keystone_xl_portal/media/Property_drawings/Valves\"><br /><\/a><\/span>\n<\/p>\n<p align=\"center\" style=\"text-align:center;\">\n\t<span style=\"color:#286F6D; font-size:16.0pt; line-height:115%;\"><a href=\"https://gisbeta.exp.com/keystone_xl_portal/media/Property_drawings/Pump%20Stations\" target=\"_blank\">Pump Stations<\/a><\/span><\/p><p align=\"center\" style=\"text-align:center;\"><span style=\"color:#286F6D; font-size:16.0pt; line-height:115%;\"><a href=\"https://gisbeta.exp.com/keystone_xl_portal/media/Property_drawings/Pump%20Stations\"><br /><\/a><\/span>\n<\/p>\n<p align=\"center\" style=\"text-align:center;\">\n\t<span style=\"color:#286F6D; font-size:16.0pt; line-height:115%;\"><a href=\"https://gisbeta.exp.com/keystone_xl_portal/media/property_drawings/Contractor%20Camps\" target=\"_blank\">Contractor Camps<\/a><\/span><\/p><p align=\"center\" style=\"text-align:center;\"><span style=\"color:#286F6D; font-size:16.0pt; line-height:115%;\"><a href=\"https://gisbeta.exp.com/keystone_xl_portal/media/property_drawings/Contractor%20Camps\"><br /><\/a><\/span>\n<\/p>\n<p align=\"center\" style=\"text-align:center;\">\n\t<span style=\"color:#286F6D; font-size:16.0pt; line-height:115%;\"><a href=\"https://gisbeta.exp.com/keystone_xl_portal/media/property_drawings/Contractor%20Yards\" target=\"_blank\">Contractor Yards<\/a><\/span><\/p><p align=\"center\" style=\"text-align:center;\"><span style=\"color:#286F6D; font-size:16.0pt; line-height:115%;\"><a href=\"https://gisbeta.exp.com/keystone_xl_portal/media/property_drawings/Contractor%20Yards\"><br /><\/a><\/span>\n<\/p>\n<p align=\"center\" style=\"text-align:center;\">\n\t<span><span style=\"font-size:16.0pt; line-height:115%;\"><a href=\"https://gisbeta.exp.com/keystone_xl_portal/media/property_drawings/Pipe%20Yards\" target=\"_blank\">Pipe Yards<\/a><\/span><\/span><\/p><p align=\"center\" style=\"text-align:center;\"><br /><span><span style=\"font-size:16.0pt; line-height:115%;\"><\/span><\/span><span style=\"color:#286F6D; font-size:16.0pt; line-height:115%;\"><\/span>\n<\/p>\n<p align=\"center\" style=\"text-align:center;\">\n\t<font size=\"4\"><a href=\"https://gisbeta.exp.com/keystone_xl_portal/media/route_variations\" target=\"_blank\">Route Variations<\/a><\/font><span style=\"color:#286F6D; font-size:16.0pt; line-height:115%;\"><\/span>\n<\/p><\/div>"
+                    }
+                }],
         "groups": []
     },
     "wabVersion": "1.2",
